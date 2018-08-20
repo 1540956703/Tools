@@ -1,0 +1,7 @@
+print("远程文件")
+print("开始计算")
+function Add(a,b)
+	print(a+b);
+end
+
+print(10,5)
